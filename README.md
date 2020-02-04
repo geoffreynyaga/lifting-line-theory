@@ -1,1 +1,1 @@
-# Prandgtl Lifting Line Theory
+# Prandtl Lifting Line Theory
